@@ -71,7 +71,7 @@ Sample Bonus Case​: Input​:
 1AA
     
 1CB
-2 35 3 3 25
+2 35 3 3 25 /n
 4 ABCD 5 35
 3
 1D2P3D 321
